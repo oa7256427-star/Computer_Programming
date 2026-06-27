@@ -1,7 +1,3 @@
-// Name: Talha Ali
-// Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0728
-// Section: A
 
 #include <iostream>
 using namespace std;
