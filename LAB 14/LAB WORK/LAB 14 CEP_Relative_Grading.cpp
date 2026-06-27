@@ -1,7 +1,4 @@
-// Name: Talha Ali
-// CEP: Relative Grading System
-// Student: Talha Ali | Reg: BF25NWELE0728
-// Semester 2 | UET Peshawar, Nowshera Campus
+
 // =====================================================
 
 #include <iostream>
